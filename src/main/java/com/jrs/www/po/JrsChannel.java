@@ -37,7 +37,7 @@ public class JrsChannel {
      *
      * @mbg.generated Mon Jun 04 17:56:27 GMT+08:00 2018
      */
-    private String 视频流类型;
+    private String 视频流类型;//videoStreamType
 
     /**
      *
@@ -46,7 +46,7 @@ public class JrsChannel {
      *
      * @mbg.generated Mon Jun 04 17:56:27 GMT+08:00 2018
      */
-    private String 播放地址;
+    private String 播放地址;//playAddress
 
     /**
      *
